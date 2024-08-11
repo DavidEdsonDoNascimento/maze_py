@@ -1,0 +1,18 @@
+teclas:
+q - quebrar
+p - pegar
+c - colocar
+m - mochila
+
+armas e ferramentas:
+k - pé de cabra
+a - facão
+
+legendas:
+v - vaso sanitário entupido cheio de bosta
+t - porta trancada
+m - morto | corpo morto ja em estado de decomposição
+x - maleta cheia de dinheiro e uma foto do seu sequestrador
+Z - zumbi
+A - armadilha de urso
+s - saida do cativeiro
